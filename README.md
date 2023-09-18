@@ -1,1 +1,1 @@
-print("Hello World!!")
+This is one of my repository where I keep most of my data science and machine learning related projects.It includes many diverse project like time series forecasting on stock data or fraud detection in various transaction etc.
